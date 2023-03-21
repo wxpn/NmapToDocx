@@ -11,4 +11,4 @@ from docx import Document
 from docx.shared import Inches
 ```
 
-The script accepts a Nmap XML file was input and creates a word document which includes fields like ip address, hostname, port, service and version number.
+The script accepts a Nmap XML file as input and creates a word document which includes table with columns ip address, hostname, port, service and version number.
